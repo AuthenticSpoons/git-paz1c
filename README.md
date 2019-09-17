@@ -1,5 +1,2 @@
-# git-paz1c
+# PAZ1c
 Best project ever.
-
-
-
